@@ -1,4 +1,4 @@
-# JavaScript_Basic
+# JavaScript_Basic(운영진 용)
 
 ### 아래 문제 제목을 클릭하면 프로그래머스 사이트로 이동이 가능합니다 ^^
 
